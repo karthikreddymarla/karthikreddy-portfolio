@@ -4,7 +4,7 @@ This is my personal portfolio website built with React.js to showcase my skills,
 
 ## ✨ Live Demo
 
-[Check it out here](https://karthikreddy-marla.github.io/karthikreddy-portfolio)
+[Check it out here](https://karthikreddy-portfolio.vercel.app/)
 
 ## 🚀 Tech Stack
 
@@ -16,4 +16,4 @@ This is my personal portfolio website built with React.js to showcase my skills,
 ## 📫 Contact
 
 - Email: karthikreddy.marla@gmail.com
-- Phone: +1 (302) 618-8492
+- Phone: +1 (302) 618-8492git add .
