@@ -4,7 +4,7 @@
       "id": "R_kgDOJWL0-g",
       "name": "SmartCommerce",
       "createdAt": "Click to Git Repository",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
+      "url": "",
       "description": "A full-stack e-commerce web application designed for seamless shopping experiences. Built with React.js for the frontend and Java Spring Boot for the backend, it features user authentication, a dynamic product catalog, shopping cart functionality, and secure RESTful API integration. MySQL is used for robust data management, and the UI is fully responsive with Tailwind CSS.",
       "isFork": false,
       "languages": [
@@ -40,7 +40,7 @@
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Portfolio Website",
       "createdAt": "Click to Git Repository",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
+      "url": "https://github.com/karthikreddymarla/karthikreddy-portfolio",
       "description": "A personal portfolio website built with React.js to showcase my professional experience, projects, and skills. The site is fully responsive, integrates smooth animations, and includes interactive sections for contact, social media, and resume access. Deployed using GitHub Pages with a focus on clean design and accessibility.",
       "isFork": false,
       "languages": [
