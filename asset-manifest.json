@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/karthikreddy-portfolio/static/css/main.8b677a7b.chunk.css",
-    "main.js": "/karthikreddy-portfolio/static/js/main.f9130853.chunk.js",
-    "main.js.map": "/karthikreddy-portfolio/static/js/main.f9130853.chunk.js.map",
+    "main.js": "/karthikreddy-portfolio/static/js/main.246f732e.chunk.js",
+    "main.js.map": "/karthikreddy-portfolio/static/js/main.246f732e.chunk.js.map",
     "runtime-main.js": "/karthikreddy-portfolio/static/js/runtime-main.2ba9e6f0.js",
     "runtime-main.js.map": "/karthikreddy-portfolio/static/js/runtime-main.2ba9e6f0.js.map",
     "static/js/2.ed51910d.chunk.js": "/karthikreddy-portfolio/static/js/2.ed51910d.chunk.js",
     "static/js/2.ed51910d.chunk.js.map": "/karthikreddy-portfolio/static/js/2.ed51910d.chunk.js.map",
     "index.html": "/karthikreddy-portfolio/index.html",
-    "precache-manifest.041cc31e85a14863a25acb50f7299a6f.js": "/karthikreddy-portfolio/precache-manifest.041cc31e85a14863a25acb50f7299a6f.js",
+    "precache-manifest.e985843d95419cb24905eb93337d43a6.js": "/karthikreddy-portfolio/precache-manifest.e985843d95419cb24905eb93337d43a6.js",
     "service-worker.js": "/karthikreddy-portfolio/service-worker.js",
     "static/css/main.8b677a7b.chunk.css.map": "/karthikreddy-portfolio/static/css/main.8b677a7b.chunk.css.map",
     "static/media/index.css": "/karthikreddy-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -64,6 +64,6 @@
     "static/js/runtime-main.2ba9e6f0.js",
     "static/js/2.ed51910d.chunk.js",
     "static/css/main.8b677a7b.chunk.css",
-    "static/js/main.f9130853.chunk.js"
+    "static/js/main.246f732e.chunk.js"
   ]
 }
