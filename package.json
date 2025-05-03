@@ -2,7 +2,8 @@
   "private": true,
   "name": "karthikreddy-portfolio",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://karthikreddymarla.github.io/karthikreddy-portfolio",
+
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
