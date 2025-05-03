@@ -16,4 +16,4 @@ This is my personal portfolio website built with React.js to showcase my skills,
 ## 📫 Contact
 
 - Email: karthikreddy.marla@gmail.com
-- Phone: +1 (302) 618-8492git add .
+- Phone: +1 (302) 618-8492
