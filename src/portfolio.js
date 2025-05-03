@@ -19,7 +19,7 @@ const greeting = {
   nickname: "karthik_the_builder",
   subTitle:
     "Full Stack Developer 🚀 passionate about developing scalable, efficient, and user-focused web applications with React.js, Java, and modern tech.",
-  resumeLink: "https://your-resume-link.com", // Optional (can leave blank for now if you don't have a resume link yet)
+  resumeLink: "https://karthikreddy-portfolio.vercel.app/karthikreddy.pdf",
   portfolio_repository: "https://github.com/karthikreddymarla",
   githubProfile: "https://github.com/karthikreddymarla",
 };
