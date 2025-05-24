@@ -262,9 +262,9 @@ const experience = {
       experiences: [
         {
           title: "Software Engineer Intern",
-          company: "JP Morgan Chase",
-          company_url: "https://www.jpmorganchase.com/",
-          logo_path: "JP.png",
+          company: "Capital One",
+          company_url: "https://www.capitalone.com/",
+          logo_path: "capitalone.png",
           duration: "May 2024 - Nov 2024",
           location: "Wilmington, DE",
           description:
